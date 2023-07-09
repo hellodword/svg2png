@@ -1,4 +1,4 @@
-class Blueprint:
+class Svg2Png:
 
     @staticmethod
     def run():
