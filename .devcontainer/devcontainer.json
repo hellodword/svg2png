@@ -1,6 +1,7 @@
 {
 	"name": "py",
-	"image": "mcr.microsoft.com/devcontainers/python:3-bullseye",
+	"dockerFile": "Dockerfile",
+	"context": "${localWorkspaceFolder}",
 	"customizations": {
 		"vscode": {
 			"extensions": [

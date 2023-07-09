@@ -12,6 +12,10 @@
     "words": [
         "devcontainer",
         "pylint",
-        "capsys"
+        "capsys",
+        "skia",
+        "hellodword",
+        "SVGDOM",
+        "getbuffer"
     ]
 }

@@ -107,3 +107,7 @@ config.env
 *.csr
 *.key
 *.pem
+
+*.png
+*.svg
+.vscode
